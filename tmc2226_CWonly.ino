@@ -1,12 +1,11 @@
 //TMC2225
 
-#define EN_PIN    5 //enable
-#define DIR_PIN   3 //direction
-#define STEP_PIN  4 //step
+#define EN_PIN    5
+#define DIR_PIN   3
+#define STEP_PIN  4 
 
 void setup()
 {
-  //set pin modes
   pinMode(EN_PIN, OUTPUT);
   digitalWrite(EN_PIN, HIGH); //deactivate driver (LOW active)
   pinMode(DIR_PIN, OUTPUT);
@@ -19,7 +18,6 @@ void setup()
 
 void loop()
 {
-  //make steps
   digitalWrite(STEP_PIN, HIGH);
   delay(2);
   digitalWrite(STEP_PIN, LOW);
