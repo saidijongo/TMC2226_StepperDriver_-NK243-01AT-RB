@@ -1,4 +1,4 @@
-//TMC2225
+//TMC2225 & TMC2226
 
 #define EN_PIN    5
 #define DIR_PIN   3
