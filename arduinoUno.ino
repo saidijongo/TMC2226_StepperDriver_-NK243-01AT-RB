@@ -1,9 +1,9 @@
-// TMC2225 Stepper Driver
+// TMC2225 & TMC2226 Stepper Driver
 //White = 2B = +B, Black = 2A=-B,green = 1A = A+, yellow = 1B = -A
 
-#define EN_PIN    5 //enable (CFG6)
-#define DIR_PIN   3 //direction
-#define STEP_PIN  4 //step
+#define EN_PIN    5
+#define DIR_PIN   3
+#define STEP_PIN  4
 
 unsigned long currentTime;
 unsigned long previousTime = 0;
