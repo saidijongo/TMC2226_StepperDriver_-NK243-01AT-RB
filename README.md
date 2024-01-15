@@ -11,3 +11,6 @@ https://www.motorbank.kr/goods/goods_view.php?goodsNo=1000008087
 
 ![image](https://github.com/saidijongo/TMC2226_StepperDriver_-NK243-01AT-RB/assets/31678025/6e95837f-b6f6-42ad-86ff-9446a469e53f)
 
+![image](https://github.com/saidijongo/TMC2226_StepperDriver_-NK243-01AT-RB/assets/31678025/830455a4-b7a5-4096-ae4c-c66e18ecb5c2)
+
+
